@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[C.J. Hayden]]></title>
+        <description><![CDATA[C.J. Hayden]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 18:18:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Helping entrepreneurs get clients, get strategic, and get things done, since 1992.
+
+I’m an author, business coach, and strategic advisor who writes, coaches, and teaches on business-building, authentic success, and social good. Please explore my articles, books and audio, current projects, or find out how to work with me.
+</p>]]></description>
+            <link>undefined0145016b-6b3b-4816-a079-c7bb36f5afbd/index.html</link>
+            <guid isPermaLink="false">0145016b-6b3b-4816-a079-c7bb36f5afbd</guid>
+            <pubDate>Wed, 03 Feb 2016 18:18:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
