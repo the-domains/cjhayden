@@ -2,19 +2,16 @@
     <channel>
         <title><![CDATA[C.J. Hayden]]></title>
         <description><![CDATA[C.J. Hayden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cjhayden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 18:18:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 18:29:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cjhayden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Helping entrepreneurs get clients, get strategic, and get things done, since 1992.
-
-I’m an author, business coach, and strategic advisor who writes, coaches, and teaches on business-building, authentic success, and social good. Please explore my articles, books and audio, current projects, or find out how to work with me.
-</p>]]></description>
-            <link>undefined0145016b-6b3b-4816-a079-c7bb36f5afbd/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b45d3c46-95cb-4a1d-a165-e0ae6f6afb8b.jpg">]]></description>
+            <link>https://thegrid.ai/cjhayden/0145016b-6b3b-4816-a079-c7bb36f5afbd/index.html</link>
             <guid isPermaLink="false">0145016b-6b3b-4816-a079-c7bb36f5afbd</guid>
-            <pubDate>Wed, 03 Feb 2016 18:18:38 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 18:28:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
